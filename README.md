@@ -4,7 +4,7 @@ This is a repository for MAGD 150
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[Click to see the Source Code] (https://github.com/schultzcj06/MAGD-150-Assignments/blob/gh-pages/f21magd150lab01_schultz.zip)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
